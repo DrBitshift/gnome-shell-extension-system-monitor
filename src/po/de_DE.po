@@ -1,0 +1,169 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the Simple System Monitor package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple System Monitor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-27 15:11+0800\n"
+"PO-Revision-Date: 2023-11-06 07:27+0800\n"
+"Last-Translator: Umut Arda Benli<u.benli@icloud.com>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: extension.js:349
+msgid "Open System Monitor"
+msgstr "Systemmonitor öffnen"
+
+#: extension.js:362
+msgid "Setting"
+msgstr "Einstellungen"
+
+#: prefs.ui:53
+msgid "CPU Usage"
+msgstr "CPU auslastung"
+
+#: prefs.ui:100
+msgid "Show CPU Usage"
+msgstr "CPU auslastung anzeigen"
+
+#: prefs.ui:147
+msgid "CPU Usage Text"
+msgstr "CPU auslastungs text"
+
+#: prefs.ui:184
+msgid "Memory Usage"
+msgstr "Arbeitsspeicher auslastung"
+
+#: prefs.ui:231
+msgid "Show Memory Usage"
+msgstr "Arbeitsspeicher auslastung anzeigen"
+
+#: prefs.ui:279
+msgid "Memory Usage Text"
+msgstr "Arbeitsspeicher auslastungs text"
+
+#: prefs.ui:315
+msgid "Swap Usage"
+msgstr "Swap auslastung"
+
+#: prefs.ui:362
+msgid "Show Swap Usage"
+msgstr "Swap auslastung anzeigen"
+
+#: prefs.ui:410
+msgid "Swap Usage Text"
+msgstr "Swap auslastungs text"
+
+#: prefs.ui:446
+msgid "Download Speed"
+msgstr "Download geschwindigkeit"
+
+#: prefs.ui:493
+msgid "Show Download Speed"
+msgstr "Download geschwindigkeit anzeigen"
+
+#: prefs.ui:541
+msgid "Download Speed Text"
+msgstr "Download geschwindigkeits text"
+
+#: prefs.ui:577
+msgid "Upload Speed"
+msgstr "Upload geschwindigkeit"
+
+#: prefs.ui:624
+msgid "Show Upload Speed"
+msgstr "Upload geschwindigkeit anzeigen"
+
+#: prefs.ui:672
+msgid "Upload Speed Text"
+msgstr "Upload geschwindigkeits text"
+
+#: prefs.ui:708
+msgid "Customize"
+msgstr "Individualisieren"
+
+#: prefs.ui:763
+msgid "Show Full Net Speed Unit"
+msgstr "Volle net Geschwindigkeits einheit anzeigen "
+
+#: prefs.ui:774
+msgid "If this is disabled, \"/s\" will be removed from net speed unit"
+msgstr ""
+
+#: prefs.ui:832
+msgid "Font"
+msgstr "Schriftart"
+
+#: prefs.ui:843
+msgid "For best experience, please use monospaced font"
+msgstr "Nutzen sie bitte monospace Schriftarten."
+
+#: prefs.ui:907
+msgid "Font Weight"
+msgstr "Schriftart dicke"
+
+#: prefs.ui:918
+msgid "The larger the value, the bolder the font"
+msgstr "Je höher die zahl, desso größer wird die Schriftart."
+
+#: prefs.ui:972
+msgid "Text Color"
+msgstr "Farbe der Schrift."
+
+#: prefs.ui:1008
+msgid "Position"
+msgstr "Position"
+
+#: prefs.ui:1063
+msgid "Extension Position"
+msgstr "Position der Erweiterung."
+
+#: prefs.ui:1074
+msgid "Re-login Required"
+msgstr "Neuanmeldung erforderlich"
+
+#: prefs.ui:1137
+msgid "Extension Order"
+msgstr "Anordnung der Erweiterung."
+
+#: prefs.ui:1148
+msgid ""
+"Re-login Required\n"
+"0: I don't care where the icon is\n"
+"Negative Values: starting from the right side\n"
+"Positive Values: starting from the left side"
+msgstr ""
+
+#: prefs.ui:1192
+msgid "Misc"
+msgstr "Verschiedenes"
+
+#: prefs.ui:1239
+msgid "Item Separator"
+msgstr ""
+
+#: prefs.ui:1288
+msgid "Refresh Interval (second)"
+msgstr "Bildauffrischungsintervall (pro sekunde)"
+
+#: prefs.ui:1339
+msgid "Show Percent Sign"
+msgstr "Prozentzeichen anzeigen"
+
+#: prefs.ui:1395
+msgid "Show Extra Spaces"
+msgstr ""
+
+#: prefs.ui:1406
+msgid "Display an extra space between text and value"
+msgstr ""
+
+#: prefs.ui:1438
+msgid "Reset Settings To Default"
+msgstr "Völlig Zurücksetzten."
